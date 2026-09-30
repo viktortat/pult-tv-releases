@@ -47,8 +47,6 @@ http://185.46.16.239:8000/VIP_Megahit
 http://185.46.16.239:8000/VIP_Comedy
 #EXTINF:-1 tvg-id="viju-tv1000-romantica" group-title="Велком",Viju TV1000 Romantica HD
 http://46.53.200.153:7777/play/Viju_Drama/index.m3u8
-#EXTINF:-1 tvg-id="tv1000-action" group-title="KINO+📺",viju TV1000 action
-http://178.134.1.158:8081/tv1000action/index.m3u8?token=tva.in.ua
 #EXTINF:-1 tvg-id="viju-tv1000-novella" group-title="Велком",Viju TV1000 Новелла HD
 http://46.53.200.153:7777/play/VIJU_TV_1000_novella/index.m3u8
 #EXTINF:-1 tvg-id="tv1000" group-title="KINO+📺",viju TV1000
@@ -238,12 +236,8 @@ http://5.9.11.197:57419/chu-409/mpegts
 https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tvxxi" group-title="IZONE",TV XXI
 http://46.32.176.50/tv21/index.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",TV Rivne 1
-https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
 #EXTINF:-1 group-title="Венгрия 🇭🇺",TV Keszthely
 https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",TV 2
-http://stream.mcquack.net/368/index.m3u8
 #EXTINF:-1 group-title="Tест-17-08",TV 1000 Kino
 http://185.121.1.163:8083/TV1000RusskoeKino/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" group-title="IZONE",TV 1000 Action
@@ -363,9 +357,6 @@ http://stream.mcquack.net/312/index.m3u8
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="МУЗИКА 🎶",Stingray Classic Rock
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="STB.ua@SD" tvg-logo="https://i.imgur.com/DCbfsyW.png" group-title="Undefined" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",STB (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://stream.mcquack.net/156/index.m3u8
 #EXTINF:-1 tvg-id="start-world" group-title="Uplink (VPN)",Start World
 https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="start-air" group-title="LLC G&G-Telecom",Start Air
@@ -684,9 +675,6 @@ https://stream8.cinerama.uz/1012/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MegogoMusic.ua@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MEGOGO_Music_%28%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%29.png" group-title="Music" http-user-agent="curl/8.16.0",Megogo Music
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.2.214/index.m3u8
-#EXTINF:-1 tvg-id="megogo-live" group-title="Наш Нет 🇺🇦",Megogo live HD
-#EXTVLCOPT:http-user-agent=UA
-https://ext.cdn.nashnet.tv/228.0.2.214/index.m3u8
 #EXTINF:-1 tvg-id="Mega.ua@SD" tvg-logo="https://i.imgur.com/Hsr0EvO.png" group-title="Undefined",Mega (Ukraine) (1080p)
 http://stream.mcquack.net/325/index.m3u8
 #EXTINF:-1 tvg-id="MasonTV.ua@SD" tvg-logo="https://i.imgur.com/lySRePP.png" group-title="Entertainment" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",Mason TV (1080p)
@@ -845,8 +833,6 @@ http://stream.mcquack.net/158/index.m3u8
 http://stream.mcquack.net/174/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",i24 (Израиль)
 http://stream.mcquack.net/45/index.m3u8
-#EXTINF:-1,https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
-https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="IZONE",http://46.32.176.50/bokstv/index.m3u8
 http://46.32.176.50/bokstv/index.m3u8
 #EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",HOT Zone (Израиль)
@@ -985,8 +971,6 @@ http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 http://stream.mcquack.net/261/index.m3u8
 #EXTINF:-1 group-title="Uplink (VPN)",Etreme sports
 https://fs.uplink.kz/extreme_sports/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdEjytsg1SprBth8FGsBDT_lURIUw6aEr6rAk6uG45Vg&s" group-title="Дензел Вашингтон" ExtFilter="StarGold",Esq (2017)
-https://ashdi.vip/video17/1/new3/roman.j.israel.esq_2017_bdrip_1080p_hurtom_39096/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
 #EXTINF:-1 tvg-id="EspresoTV.ua@SD" tvg-logo="https://i.imgur.com/xNatV8K.png" group-title="News",Espreso TV (1080p)
 https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",ESPN7 HD Испания 🇪🇸
@@ -1005,8 +989,6 @@ http://181.224.255.210:8001/play/a0pt/index.m3u8
 http://stream.mcquack.net/58/index.m3u8
 #EXTINF:-1 tvg-id="EnterFilm.ua@SD" tvg-logo="https://i.imgur.com/wQbiGs6.png" group-title="Movies" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",Enter-Film (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://stream.mcquack.net/322/index.m3u8
-#EXTINF:-1 tvg-id="megogo-1586361" group-title="TEST-1" tvg-rec="7" timeshift="7",Enter-фільм
 http://stream.mcquack.net/322/index.m3u8
 #EXTINF:-1 tvg-id="english-club-tv" group-title="Turon Media",English Club
 https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
@@ -1101,9 +1083,6 @@ http://stream.mcquack.net/476/index.m3u8
 http://stream.mcquack.net/399/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",Che TV
 http://194.152.35.17/che/index.m3u8
-#EXTINF:-1 tvg-id="Channel8.ua@SD" tvg-logo="https://i.imgur.com/6Sr5vJD.png" group-title="Undefined" http-user-agent="curl/8.16.0",Channel 8 (Ukraine)
-#EXTVLCOPT:http-user-agent=curl/8.16.0
-https://ext.cdn.nashnet.tv/228.0.0.138/index.m3u8
 #EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Channel 24 (Израиль)
 http://stream.mcquack.net/42/index.m3u8
 #EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Channel 14 (Израиль)
@@ -1304,9 +1283,6 @@ https://s1.mvzd.ru/content/th/ea/The_Age_of_Innocence_1993_720p_1080p.m3u8
 https://o8.anwap.be/ohls/IjpoUDAT289BRhRE9y1Pvw/1704071104/YEpidemiya-39616_(anwap.org).m3u8
 #EXTINF:-1 tvg-logo="https://1rus.ru/content/15/80/1580850_480x282.webp" group-title="Фильмы-VPN",Экстрасенсы (2014)
 https://s3.mvzd.ru/content/so/la/Solace_2015_D_BDRip_1080p_ExKinoRay_1080p.m3u8
-#EXTINF:-1 tvg-id="eko-tv" group-title="Наш Нет 🇺🇦",Эко-ТВ
-#EXTVLCOPT:http-user-agent=UA
-https://ext.cdn.nashnet.tv/228.0.1.60/index.m3u8
 #EXTINF:-1 tvg-logo="https://1rus.ru/content/r0/ay/125_JPG_720x406.webp" group-title="Фильмы-VPN",Эддингтон (2025)
 https://s4.mvzd.ru/content/l3/02/Eddington_2025_1080p_AMZN_-_New-Team_1080p.m3u8
 #EXTINF:-1 tvg-id="eureka-hd" tvg-logo="https://ru-images.kinorium.com/movie/90/2508327.jpg?1714556481" group-title="Вигго Мортенсен" ExtFilter="StarGold",Эврика (2023)
@@ -1383,9 +1359,6 @@ https://o6.anwap.be/ohls/G-S_6XEYDDX6qqO-i0Ag5Q/1748618643/Cudak-32921_(anwap.or
 https://s5.mvzd.ru/content/h0/go/Chto_moglo_byt_huzhe_2001_BDRip_1080p_MediaClub_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://1rus.ru/content/a1/fh/94ce2bd9da7d7c3af880fd3b6397091c_720x406.webp" group-title="Фильмы-VPN",Что гложет Гилберта Грейпа (1993)
 https://s5.mvzd.ru/content/b4/nw/CHto_glozhet_1__1080p.m3u8
-#EXTINF:-1 group-title="Наш Нет 🇺🇦",Чорноморська ТРК
-#EXTVLCOPT:http-user-agent=UA
-https://ext.cdn.nashnet.tv/228.0.0.136/index.m3u8
 #EXTINF:-1 group-title="KINO ZAL",Чорний телефон 2
 https://ashdi.vip/video12/1/new/black.phone.2.2025.1080p.ma.webdl.dd5.1.h.264spilno_221929/hls/BKiPlHaNkftZhAz4/index.m3u8
 #EXTINF:-1 tvg-logo="https://uaserial.top/images/serials/65/655ca3ada60b6107974485.webp" group-title="Бёрт Рейнолдс" ExtFilter="StarGold",Чоловік, який любив жінок (1983)
@@ -1431,8 +1404,6 @@ http://ashdi.vip/video24/1/new/turtles_all_the_way_down_128174/hls/BKiBlHWKkftdm
 https://ashdi.vip/video29/1/films/red_dawn_1984_bdrip_1080p_72507/hls/1080/DauXi3CRleBCmAs=/index.m3u8
 #EXTINF:-1 tvg-logo="https://1rus.ru/content/e0/p8/AQACwio4w1qj2zo2WSgS0HY39d7k7ibLZp9LQgXxl8guxrgy7h3yUHZRW7NuHyJ0gyXZ5u_720x406.webp" group-title="Фильмы-VPN",Чемпионы (2022)
 https://s5.mvzd.ru/content/h7/23/Champions_2023_1080p_ot_New-Team_JNS82_1080p.m3u8
-#EXTINF:-1 tvg-id="megogo-19068786" group-title="TEST-1" tvg-rec="7" timeshift="7",Чемодан ТВ
-http://stream.mcquack.net/399/index.m3u8
 #EXTINF:-1 group-title="KINO ZAL",Челюсти Столкновение (2022)
 https://kinoleha.net/load/chelyusti-stolknovenie?original
 #EXTINF:-1 tvg-logo="https://1rus.ru/content/mv/5b/MV5BMjQ5MjlkMGUtNzYwYy00YWI2LTliNmQtNzcwNDYwOWZkNTRhXkEyXkFqcGc_V1__720x406.webp" group-title="Фильмы-VPN",Челюсти (1975)
@@ -1683,8 +1654,6 @@ https://kinoleha.net/player/tuman.mp4?original
 https://s4.mvzd.ru/content/bb/8e/_Lost_in_Translation_2003_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://1rus.ru/content/89/62/89621455_JPG_720x406.webp" group-title="Фильмы-VPN",Троя (2004)
 https://s4.mvzd.ru/content/tr/oy/Troy_Directors_2004_BDRip_1080p_Rus_1080p.m3u8
-#EXTINF:-1 tvg-id="trofey" group-title="TEST-1" tvg-rec="7" timeshift="7",Трофей
-http://stream.mcquack.net/357/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRLb0jiRwBLFpzKurVDbEWYYUxflw54MEjhQ&s" group-title="Алек Болдуин" ExtFilter="StarGold",Тропой войны (2002)
 https://o9.anwap.be/ohls/ovVEIecJcBNY7HkzS6NaLg/1745362530/Tropoj_vojny-44035_(anwap.org).m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId" tvg-logo="https://i120.fastpic.org/big/2022/1008/88/e1f7e01407f97cb532870171880f6e88.jpg" group-title="Военное кино" ExtFilter="Kinozal",Тропа гиены (2015)
@@ -1804,8 +1773,6 @@ http://ashdi.vip/video22/2/films/technoboys_2024_nf_webdl_1080p_ukr_spa_hurtom_1
 https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId" tvg-logo="https://images.kinorium.com/movie/90/91433.jpg?1634161122" group-title="Вигго Мортенсен" ExtFilter="StarGold",Техасская резня бензопилой (1974)Техасская резня бензопилой 3: Кожаное лицо (1990)
 https://ashdi.vip/video29/3/new/leatherface._texas_chainsaw_massacre_3_1990_eng_dvdrip_hurtom_by_andrew_crasher_21565/hls/AamXiHaGjuRfnxH+Doo=/index.m3u8
-#EXTINF:-1 tvg-id="tet-ua" group-title="TEST-1" tvg-rec="7" timeshift="7",ТЕТ
-http://stream.mcquack.net/338/index.m3u8
 #EXTINF:-1 group-title="Фильмы-VPN",Терминатор: Тёмные судьбы (2019)
 https://s1.mvzd.ru/content/6t/er/6_Terminator_Temnye_sudby_2019g_1080p.m3u8
 #EXTINF:-1 group-title="Фильмы-VPN",Терминатор: Да придёт спаситель (2009)
@@ -1911,8 +1878,6 @@ https://marionetka.com/player/tayler-reyk-operaciya-po-spaseniyu.mp4
 https://ashdi.vip/video25/1/films/mystery_alaska_1999_open_matte_webdl_1080p_130961/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/a/a6/%D0%A2-34%2C_%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%B0.jpg" group-title="Военное кино" ExtFilter="Kinozal",Т-34 (2018)
 https://o3.anwap.be/ohls/AnBb0cQKtAIUNvjht5YCaA/1745223347/T-34-21344_(anwap.org).m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",СK 1
-http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/6/65/%D0%A1%D1%8D%D0%BC_%D0%B8_%D0%9A%D1%8D%D1%82_2013.jpg/330px-%D0%A1%D1%8D%D0%BC_%D0%B8_%D0%9A%D1%8D%D1%82_2013.jpg" group-title="Дастин Хофман" ExtFilter="StarGold",Сэм и Кэт (2013)
 https://o3.anwap.be/ohls/GJwen_JtHPVBSfVxgTc0Pg/1751344041/Syem_i_Kejt-36132_(anwap.org).m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/d/d3/Happy_Together_1989.jpg/205px-Happy_Together_1989.jpg" group-title="Бред Питт" ExtFilter="StarGold",Счастливы вместе (1989)
@@ -2096,11 +2061,6 @@ https://o1.anwap.be/ohls/uay38uNgDnYOi8blnmMd0A/1748617554/Sorok_pervyj_god_Prot
 https://o5.anwap.be/ohls/yJVRDeGYgNcX2JBNAUcYyw/1751085953/Paydirt-26828_(anwap.org).m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/4/4b/Resistance_%28film%2C_2020%29.jpg" group-title="Военное кино" ExtFilter="Kinozal",Сопротивление (2020)
 https://kinoleha.net/load/soprotivlenie?original
-#EXTINF:-1 tvg-id="sonce-ua" group-title="Наш Нет 🇺🇦",Сонце
-#EXTVLCOPT:http-user-agent=UA
-https://ext.cdn.nashnet.tv/228.0.0.165/index.m3u8
-#EXTINF:-1 tvg-id="soltv" group-title="TEST-1" tvg-rec="7" timeshift="7",Соль ТВ
-http://stream.mcquack.net/398/index.m3u8
 #EXTINF:-1 tvg-id="sol" group-title="Ott Club",Соль
 http://stream.mcquack.net/398/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="KINO ZAL",Солодкий схід(2024)
@@ -2940,8 +2900,6 @@ https://s5.mvzd.ru/content/0g/p1/Pesnya_lancha_The_Song_of_Lunch_rus_sub__1080p.
 https://o2.anwap.be/ohls/e2LajqVDzprty5IQTGW0EA/1751086288/Pesnya_za_pesnej-17440_(anwap.org).m3u8
 #EXTINF:-1 tvg-id="pes-i-ko" group-title="Инет",Пес и Ко
 http://185.46.16.239:8000/Pes_i_Ko
-#EXTINF:-1 tvg-id="megogo-1288641" group-title="Україна 🇺🇦",ПЕРШИЙ HD
-https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
 #EXTINF:-1 group-title="Україна 🇺🇦",Перший міський Кривий Ріг
 https://cdn1.live-tv.cloud/1tvkr/1tvkr-abr-lq/playlist.m3u8
 #EXTINF:-1 group-title="Україна 🇺🇦",Перший Кабельний
@@ -3027,8 +2985,6 @@ https://ashdi.vip/video2/1/new/den.of.thieves.2.pantera.2024.ua.mvo.dniprofilm_1
 https://ashdi.vip/video25/2/films/category_5_2014_webrip_720p_138477/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
 #EXTINF:-1 tvg-logo="https://1rus.ru/content/h4/11/f42221bc9371e19f3a4a6c46126d29b4_720x406.webp" group-title="Фильмы-VPN",Очень странные дела (2016)
 https://s5.mvzd.ru/content/65/dj/Stranger_Things_S05E01_DUB_Dragon_Money_Studio_1080p_1080p.m3u8
-#EXTINF:-1 tvg-id="otse" group-title="TEST-1" tvg-rec="7" timeshift="7",ОЦЕ
-http://stream.mcquack.net/329/index.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIdRIGQHUhDnhkxKq1qhW2TAAgErNFcWGIiw&s" group-title="Военное кино" ExtFilter="Kinozal",Охотница из Освенцима (2022)
 https://o6.anwap.be/ohls/VKH2WT2BFn6Jkf_kQT4W_A/1748615575/Ohotnica_iz_Osvencima-34182_(anwap.org).m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId" tvg-logo="https://kinogo.online/uploads/posts/2021-02/1614479720-2059080509.jpg" group-title="Вэл Килмер" ExtFilter="StarGold",Охотники за разумом (2004)
@@ -3293,8 +3249,6 @@ http://ashdi.vip/video22/1/new/night_shoot_127962/hls/BKiBlHWKkftdmgjhA44=/index
 https://ashdi.vip/video17/1/new/film_nochnoj_dozor_1995_156023/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
 #EXTINF:-1 group-title="KINO ZAL",Нічна благодать(2024)
 http://ashdi.vip/video24/1/new/grace_by_night_2024_webrip_1080p_eng_ukr_hurtom_156331/hls/BKeMlHaNkPtdngjhBIs=/index.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",Нікчемний Я4|2024|професійний дубльований
-https://calypso.tortuga.tw/content/stream/films/despicable.me.4.2024.bdremux.1080p.ledoyen.dub_102367/hls/1080/index.m3u8
 #EXTINF:-1 group-title="CHILDREN'S 🧙",Нікчемний Я 4 2024 професійний дубльований
 https://calypso.tortuga.tw/content/stream/films/despicable.me.4.2024.bdremux.1080p.ledoyen.dub_102367/hls/1080/index.m3u8
 #EXTINF:-1 group-title="KINO ZAL",Нікап(2024)
@@ -3476,9 +3430,6 @@ https://o2.anwap.be/ohls/thHMveCnSD_R6rzz4x-q7w/1751168949/Naemnyj_ubijca-8974_(
 https://s1.mvzd.ru/content/as/sa/Assassins_1995_BDRip-AVC_1__1080p.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId" tvg-logo="https://static.hdrezka.ac/i/2016/6/18/la3ca4e41ceacuy34t16g.jpg" group-title="Винни Джонс" ExtFilter="StarGold",Наёмник: Отпущение грехов (2015)
 https://o2.anwap.be/ohls/S60lOXHwF0aDTedSbPmmXA/1748597935/Nayomnik_Otpuwenie_grehov-13695_(anwap.org).m3u8
-#EXTINF:-1 tvg-id="nadia" group-title="Наш Нет 🇺🇦",Надія
-#EXTVLCOPT:http-user-agent=UA
-https://ext.cdn.nashnet.tv/228.0.0.172/index.m3u8
 #EXTINF:-1 tvg-logo="https://uaserial.top/images/serials/67/676c8ccd08a4b442718988.webp" group-title="Бёрт Рейнолдс" ExtFilter="StarGold",Навахо Джо (1966)
 https://ashdi.vip/video25/1/new/navajo_joe_1966_bdrip_ukr_eng_hurtom_157051/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.hdrezka.ac/i/2024/5/6/z8ab393c036c7nw51h71m.png" group-title="Бёрт Рейнолдс" ExtFilter="StarGold",На том стоим (2003)
@@ -3559,8 +3510,6 @@ https://s5.mvzd.ru/content/u8/s8/Muzhchina_glyadyashhiy_na_YUgo_Vostok_1080p.m3u
 http://46.32.176.50/MujskoeKinoHD/index.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId" tvg-logo="https://uakino.me/uploads/mini/poster/eb/5c2587c5e86b25c35d4fc354196a6a.webp" group-title="Дензел Вашингтон" ExtFilter="StarGold",Мужність під вогнем / Випробування вогнем (1996)
 https://ashdi.vip/video17/1/films/courage_under_fire_1996_bdrip_1080p_71969/hls/AamXiHaGjuRfnxH+B4o=/index.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",МТМ Запоріжжя
-https://stream.ztv.zp.ua/hls/live.m3u8
 #EXTINF:-1 group-title="Фильмы-VPN",Мстители: Эра Альтрона (2015)
 https://s2.mvzd.ru/content/ms/ti/mstiteli_-_Trim_1080p.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId" tvg-logo="https://ru-images.kinorium.com/movie/90/1442354.jpg?1678573746" group-title="Бенедикт Камбербэтч" ExtFilter="StarGold",Мстители: Финал (2019)
@@ -3693,8 +3642,6 @@ http://185.195.184.30:8000/play/a014/index.m3u8
 https://s5.mvzd.ru/content/6x/7r/Billions_S07E01_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://1rus.ru/content/tm/tx/SP8BHdGdQB7pFtwjEbWd28_720x406.webp" group-title="Фильмы-VPN",Микки 17 (2025)
 https://s6.mvzd.ru/content/94/l8/Mickey_17_2025_1080p_iT_WEB-DL_DDP5_1_Atmos_H_264_L-BYNDR-RGB_1080p.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",МИ+ УКРАЇНА HD
-https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
 #EXTINF:-1 group-title="KINO ZAL",Ми виросли(2024)
 http://ashdi.vip/video30/1/films/we.grown.now.2023.1080p.amzn.webdl.aac2.0.h.264utopia_131948/hls/BKiBlHWKkftdmgjhA44=/index.m3u8
 #EXTINF:-1 tvg-logo="https://1rus.ru/content/fr/ab/325632_JPG_720x406.webp" group-title="Фильмы-VPN",Метрополис (1927)
@@ -3785,8 +3732,6 @@ https://ashdi.vip/video17/1/films/the_matador_2005_bdrip_1080p_3xukr_eng_hurtom_
 https://s4.mvzd.ru/content/in/od/The_Master_2012_1080p_BluRay_2xRus_Eng_HDCLUB-Skazhutin_1080p.m3u8
 #EXTINF:-1 tvg-id="mason-tv" group-title="Україна 🇺🇦",МАСОН ТВ
 http://195.189.60.253/mason_tv_hd/video.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Масон
-http://stream.mcquack.net/346/index.m3u8
 #EXTINF:-1 tvg-logo="https://1rus.ru/content/dc/o8/879748741704814586_720x406.webp" group-title="Фильмы-VPN",Маскарад (2012)
 https://s5.mvzd.ru/content/ig/1p/Maskarad_dorama_2012__1080p.m3u8
 #EXTINF:-1 tvg-logo="https://1rus.ru/content/6o/b5/2485_JPG_720x406.webp" group-title="Фильмы-VPN",Мартовские иды (2011)
@@ -3880,8 +3825,6 @@ https://s1.mvzd.ru/content/lo/ve/Lovec_snov_2003_WEB-DLRip_Open_Matte__1080p.m3u
 http://ashdi.vip/video17/1/films/justice_league._crisis_on_infinite_earths_part_two_2024_bdrip_1080p_ukr.eng_sub.eng_hurtom_130950/hls/BKiBlHWKkftdmgjhA44=/index.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId" tvg-logo="https://static.hdrezka.ac/i/2014/12/19/f856771d690afni43h10g.jpg" group-title="Анджелина Джоли" ExtFilter="StarGold",Лихорадка (2003)
 https://o3.anwap.be/ohls/xItFfLEGEPOabX8V2GO2Ug/1745456315/Lihoradka-36564_(anwap.org).m3u8
-#EXTINF:-1 tvg-logo="https://uaserial.top/images/serials/65/655776d993901640952142.webp" group-title="Арнольд Шварценеггер" ExtFilter="StarGold",Лиходій (1979)
-https://ashdi.vip/video22/1/films/the_villain_1979_hdtv_1080p_70964/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
 #EXTINF:-1 tvg-logo="https://ru-images.kinorium.com/movie/90/429413.jpg?1623657194" group-title="Гэри Дэниелс" ExtFilter="StarGold",Линия (2009)
 https://ashdi.vip/video29/1/films/la_linea_2009_bdrip_1080p_hurtom_58823/hls/AamXiHaGjuRfnxH+Doo=/index.m3u8
 #EXTINF:-1 tvg-logo="https://1rus.ru/content/b3/hu/cnbx_720x406.webp" group-title="Фильмы-VPN",Лило и Стич (2025)
@@ -4327,8 +4270,6 @@ https://ashdi.vip/video29/3/new/hook_1991bdrip1080p_ukr_eng_sub_eng_17447/hls/Aa
 https://ashdi.vip/video26/3/new/00000_16619/hls/AamXiHaGjuRfnxH9Aw==/index.m3u8
 #EXTINF:-1 group-title="KINO ZAL",Каникулы наёмного убийцы 2022 (Скотт Эдкинс)
 https://marionetka.com/player/kanikuly-naemnogo-ubijcy.mp4
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",канал
-http://stream.mcquack.net/157/index.m3u8
 #EXTINF:-1 tvg-logo="https://1rus.ru/content/mh/y4/7b52edb8304cc8182be0e6d1c458c034_720x406.webp" group-title="Фильмы-VPN",Камо грядеши (2001)
 https://s5.mvzd.ru/content/4c/6o/Quo_Vadis_Nero_Der_Tyrann_Roms_2001_1080p_BDRip_x264_RUS_GER_1080p.m3u8
 #EXTINF:-1 tvg-id="0x0-fireplace-hd" group-title="RELAX 💐",КАМИН
@@ -4357,10 +4298,6 @@ https://ashdi.vip/video27/3/new/cadillac_records_2008_bdrip_1080p_21142/hls/AamX
 http://ashdi.vip/video15/2/serials/cabrini.2024.1080p__uakino.club_148573/hls/BKeMlHaNkPtdngjhBIw=/index.m3u8
 #EXTINF:-1 tvg-logo="https://1rus.ru/content/sm/d4/745215_JPG_720x406.webp" group-title="Фильмы-VPN",Кабинет доктора Калигари (1920)
 https://s6.mvzd.ru/content/hn/1e/_KABINET_DOKTORA_KALIGARI_1920__1080p.m3u8
-#EXTINF:-1 tvg-id="k2-ua" group-title="TEST-1" tvg-rec="7" timeshift="7",К2
-http://stream.mcquack.net/324/index.m3u8
-#EXTINF:-1 tvg-id="k1-kinopoisk" group-title="TEST-1" tvg-rec="7" timeshift="7",К1
-http://stream.mcquack.net/270/index.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId" tvg-logo="https://ex-fs.net/thumbs.php?src=http://ex-fs.net/uploads/posts/2019-09/1569337089_218c9e5.jpg&w=152&h=220&zc=1" group-title="Бред Питт" ExtFilter="StarGold",К звёздам (2019)
 https://o3.anwap.be/ohls/Z0aGOMZ_0oewluLbxbhSbw/1745569317/K_zvyozdam-23390_(anwap.org).m3u8
 #EXTINF:-1 group-title="KINO ZAL",Його три доньки(2024)
@@ -4373,8 +4310,6 @@ https://ashdi.vip/video21/1/films/er_piu_storia_damore_e_di_coltello_1971_webdl_
 https://ashdi.vip/video24/2/films/twofisted_tales_1992_ukr.22_ac3_2.0_satrip_hurtom_by_urij546724_142330/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
 #EXTINF:-1 group-title="KINO ZAL",Інша людина(2024)
 http://ashdi.vip/video21/1/new/a.different.man.2024.1080p__uakino.club_159584/hls/DK6Xi36KjuxVhA75AA==/index.m3u8
-#EXTINF:-1 tvg-id="megogo-1586331" group-title="TEST-1" tvg-rec="7" timeshift="7",Інтер
-http://stream.mcquack.net/174/index.m3u8
 #EXTINF:-1 group-title="KINO ZAL",Іноді я думаю про смерть(2024)
 http://ashdi.vip/video22/2/films/sometimes_i_think_about_dying_2024_webdl_1080p_h264_ukr_eng_hurtom_139945/hls/BKiBlHWKkftdmgjhA44=/index.m3u8
 #EXTINF:-1 group-title="KINO ZAL",Іні Міні
@@ -4591,8 +4526,6 @@ https://s4.mvzd.ru/content/za/ko/Zakonoposlushnyy_grazhdanin_-_Law_Abiding_Citiz
 http://195.189.60.253/zakon_tv_hd/video.m3u8
 #EXTINF:-1 tvg-id="zakon-tv" group-title="Ott Club",Закон ТВ
 http://stream.mcquack.net/406/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Закон
-http://stream.mcquack.net/406/index.m3u8
 #EXTINF:-1 group-title="KINO ZAL",Закляття. Царство темряви 2024
 https://ashdi.vip/video16/1/new/it.lives.inside.2023.1080p.web.uargb_122402/hls/A6aXi3WOjuRakhH+D4w=/index.m3u8
 #EXTINF:-1 group-title="KINO ZAL",Закляття 4: Останні обряди
@@ -4677,8 +4610,6 @@ https://o1.anwap.be/ohls/86wUohLV1ZOPGQ0tmxC1XA/1751086314/Estq_mechty__budut_i_
 #EXTINF:-1 tvg-id="espreso-tv" group-title="Наш Нет 🇺🇦",Еспресо TV HD
 #EXTVLCOPT:http-user-agent=UA
 https://ext.cdn.nashnet.tv/228.0.0.191/index.m3u8
-#EXTINF:-1 tvg-id="espreso-tv" group-title="Україна 🇺🇦",Еспресо HD
-https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8
 #EXTINF:-1 group-title="KINO ZAL",Ентоні Джесельнік - До самих кісток(2024)
 http://ashdi.vip/video15/1/new/enton_dzheselnk_do_samix_kstok_2024_153630/hls/BKeMlHaNkPtdngjhBIw=/index.m3u8
 #EXTINF:0 tvg-logo="https://uakino.me/uploads/mini/poster/2b/ce49f054cea5fc8d98b854f309208d.webp" group-title="Ніколас Кейдж",Емос і Ендрю (1993)
@@ -5042,8 +4973,6 @@ https://s2.mvzd.ru/content/mo/re/more_-_Trim_-_Trim_1080p.m3u8
 https://ashdi.vip/video22/2/new/deep_water_136331/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/0/0f/Glengarry_Glen_Ross.jpg/211px-Glengarry_Glen_Ross.jpg" group-title="Алек Болдуин" ExtFilter="StarGold",Гленгарри Глен Росс (Американцы) (1992)
 https://ashdi.vip/video21/1/films/glengarry_glen_ross_1992_bdrip_1080p_h.265_hurtom_117759/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
-#EXTINF:-1 group-title="Україна 🇺🇦",Глас
-http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
 #EXTINF:-1 tvg-id="glazami-turista" group-title="Turon Media",Глазами Туриста
 https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://uakino.me/uploads/mini/poster/ed/084be2aaebb90c8cffd2db4abcfe0b.webp" group-title="Дензел Вашингтон" ExtFilter="StarGold",Гладіатор ІІ (2024)
@@ -5188,8 +5117,6 @@ http://ashdi.vip/video30/1/films/find_me_falling_2024_webdl_1080p_ukr_eng_hurtom
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId" tvg-logo="https://i115.fastpic.org/big/2021/0913/90/429ec65cb6865eb2db5e563a71efb990.jpg" group-title="Винни Джонс" ExtFilter="StarGold",Восхождение пехотинца: начало (2021)
 https://o7.anwap.be/ohls/CVpQgSOigA5mwQCuxCw45w/1748596938/Rise_of_the_Footsoldier_Origins_The_Tony_Tucker_Story-31558_(anwap.org).m3u8
 #EXTINF:-1 tvg-logo="https://i120.fastpic.org/big/2022/1103/e8/f31eabe0be4284f886cfce89055eb9e8.jpg" group-title="Винг Рэймс" ExtFilter="StarGold",Воскрешая мертвецов (1999)
-https://ashdi.vip/video1/1/films/bringing_out_the_dead_1999_webdl_1080p_71967/hls/1080/DauXi3CRleBCmQ==/index.m3u8
-#EXTINF:0 tvg-logo="https://uakino.me/uploads/mini/poster/7a/bf488ebdcdfa71d8ec9ea4584bbb65.webp" group-title="Ніколас Кейдж",Воскрешаючи мерців (1999)
 https://ashdi.vip/video1/1/films/bringing_out_the_dead_1999_webdl_1080p_71967/hls/1080/DauXi3CRleBCmQ==/index.m3u8
 #EXTINF:-1 tvg-id="voprosy-i-otvety" group-title="Turon Media",Вопросы и Ответы
 https://stream8.cinerama.uz/1429/tracks-v1a1/mono.m3u8
@@ -5444,8 +5371,6 @@ https://o1.anwap.be/ohls/9bRFLRf8eQiTELDDfwsF4g/1745214413/Beyond_the_Call_to_Du
 http://195.64.140.147:10175/175
 #EXTINF:-1 group-title="KINO ZAL",Боксер(2024)
 http://ashdi.vip/video22/2/films/boxer_2024_webdl_1080p_ukr_pol_hurtom_141361/hls/BKiBlHWKkftdmgjhA44=/index.m3u8
-#EXTINF:-1 tvg-id="box-tv" group-title="IZONE",Бокс ТВ
-http://46.32.176.50/bokstv/index.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/8/8a/Fight_club.jpg/239px-Fight_club.jpg" group-title="Бред Питт" ExtFilter="StarGold",Бойцовский клуб (2000)
 https://ashdi.vip/video19/1/films/fight.club.1999.remastered.bdremux.1080p.dniprofilm_137280/hls/AamXiHaGjuRfnxH9Bw==/index.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId" tvg-logo="https://static.hdrezka.ac/i/2016/6/19/d0422371b6d45xr79j87z.jpg" group-title="Военное кино" ExtFilter="Kinozal",Бой местного значения (2008)
@@ -5490,8 +5415,6 @@ https://o4.anwap.be/ohls/jqU63U-NYgJhvrDadDMGpg/1745715115/Bladshot-25151_(anwap
 http://ashdi.vip/video19/2/new/beetlejuice.beetlejuice.2024.1080p.amzn.webdl.ddp5.1.atmos.h.264fluxrgb_145486/hls/BKeMlHaNkPtdngjhBIk=/index.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId" tvg-logo="https://uakino.me/uploads/mini/poster/17/54f56cbb81b1df6ba2cbefc063098d.webp" group-title="Анджелина Джоли" ExtFilter="StarGold",Біля моря (2015)
 https://ashdi.vip/video19/1/films/by.the.sea.2015.bdremux.1080p_94006/hls/AamXiHaGjuRfnxH9Bw==/index.m3u8
-#EXTINF:-1 group-title="KINO ZAL",Бій без правил|2009|США|кримінал|трилер|спорт|Ченнінґ Татум
-https://jk19ocmjeoyql3tj.ashdi.vip/content/stream/films/fighting_2009_bdrip_1080p_64916/hls/1080/index.m3u8
 #EXTINF:-1 group-title="KINO ZAL",Бій без правил|2009|кримінал|трилер|спорт|Ченнінґ Татум
 https://jk19ocmjeoyql3tj.ashdi.vip/content/stream/films/fighting_2009_bdrip_1080p_64916/hls/1080/index.m3u8
 #EXTINF:-1 group-title="KINO ZAL",Бій без правил(2024)Канада|Саванна Беслі
@@ -5608,8 +5531,6 @@ http://ashdi.vip/video21/1/films/arxtektura_koxannya_gajdamajk_159480/hls/DK6Xi3
 https://ashdi.vip/video31/1/new/arsenal_2017_bdremux_1080p_180471/hls/1080/BKeMlHWLlvtemgfhB48l/index.m3u8
 #EXTINF:-1 group-title="Україна 🇺🇦",Армія TB
 http://portal.ott.pink/C5UK_ArmyTVHD/index.m3u8?token=927E03BF1A83DF5DE6628CAF78BA2C13
-#EXTINF:-1 tvg-id="armia-tv-ua" group-title="Україна 🇺🇦",Армія ТБ
-https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
 #EXTINF:-1 tvg-logo="https://uaserial.top/images/serials/65/655b501036b09738808460.webp" group-title="Брендан Фрейзер" ExtFilter="StarGold",Армійські пригоди (1994)
 https://ashdi.vip/video24/1/films/in_the_army_now_1994_webdl_1080p_ukreng__sub_eng_hurtom_67984/hls/AamXiHaGjuRfnxH8BQ==/index.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/f/f2/%D0%90%D1%80%D0%BC%D0%B8%D1%8F_%D0%BC%D0%B5%D1%80%D1%82%D0%B2%D0%B5%D1%86%D0%BE%D0%B2.png" group-title="Боевики" ExtFilter="Kinozal",Армия мёртвых (2021)
@@ -5630,9 +5551,6 @@ http://ashdi.vip/video18/1/films/argylle.2024.web.1080p.h.265.ukr_eng.hurtom_125
 https://o9.anwap.be/ohls/y4Lx1AgasaDl3ceBLUxBVg/1751341007/Apperkot-44957_(anwap.org).m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/7/71/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%90%D0%BF%D0%BF%D0%B0%D0%BB%D1%83%D0%B7%D0%B0.jpg" group-title="Вигго Мортенсен" ExtFilter="StarGold",Аппалуза (2008)
 https://o1.anwap.be/ohls/enF83TFOQZeCiM6IlNv6Eg/1751323889/Appaluza-10153_(anwap.org).m3u8
-#EXTINF:-1 tvg-id="apostrof" group-title="Наш Нет 🇺🇦",Апостроф TV HD
-#EXTVLCOPT:http-user-agent=UA
-https://ext.cdn.nashnet.tv/228.0.2.165/index.m3u8
 #EXTINF:-1 group-title="KINO ZAL",Апокаліпсис Z Початок кінця(2024)
 http://ashdi.vip/video21/1/films/apocalipsis.z.el.principio.del.fin.2024__uakino.club_160766/hls/DK6Xi36KjuxVhA75AA==/index.m3u8
 #EXTINF:-1 tvg-logo="https://1rus.ru/content/uk/az/258632659_JPG_720x406.webp" group-title="Фильмы-VPN",Апокалипсис сегодня (1979)
@@ -5787,8 +5705,6 @@ https://lowa8026-cmyk.github.io/Ukraine/Edyni_Novyny/2Plus2Marafon.m3u8
 http://stream.mcquack.net/173/index.m3u8
 #EXTINF:-1 group-title="Грузия 🇬🇪",2 Radio
 https://tv.cdn.xsg.ge/gpb-radio2/tracks-a1/mono.m3u8?token=tva.org.ua
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",2
-http://stream.mcquack.net/330/index.m3u8
 #EXTINF:-1 group-title="Грузия 🇬🇪",1TV HD
 https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8?token=tva.org.ua
 #EXTINF:-1 group-title="МУЗИКА 🎶",1MUS
@@ -5874,8 +5790,6 @@ https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8
 https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="1plus1-ukraina" group-title="Україна 🇺🇦",1+1 Україна (UA)
 http://portal.ott.pink/C5UK_1plus1SD/index.m3u8?token=2B8378CADCB27AA393170BD7EDB7C0E9
-#EXTINF:-1 tvg-id="1plus1" group-title="Україна 🇺🇦",1+1 Марафон
-https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8
 #EXTINF:-1 tvg-id="1plus1" group-title="Ott Club",1+1
 http://stream.mcquack.net/219/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGYyOWI3MjktMjgyNy00YTZiLWFjMDctM2U2NDI3NjQzMDRmXkEyXkFqcGc@._V1_.jpg" group-title="Вэл Килмер" ExtFilter="StarGold",1-й рожденный (2019)
@@ -5884,8 +5798,6 @@ https://o3.anwap.be/ohls/QGKdVhPNNGE41VLsMtI5vw/1751086246/1st_Born-24155_(anwap
 http://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Грузия 🇬🇪",1 Radio
 https://tv.cdn.xsg.ge/gpb-radio1/tracks-a1/mono.m3u8?token=tva.org.ua
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",1
-http://stream.mcquack.net/218/index.m3u8
 #EXTINF:-1 group-title="Фильмы-VPN",007: СПЕКТР (2015)
 https://s3.mvzd.ru/content/sp/ec/Spectre_2015_x264_BDRip_1080p_ExKinoRay_1080p.m3u8
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId" tvg-logo="https://i115.fastpic.org/big/2021/0728/ee/5386312711a77e913f5ce655e97531ee.jpg" group-title="Дастин Хофман" ExtFilter="StarGold",«Ахап Ереч» Роальда Даля (2015)
